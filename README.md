@@ -1,2 +1,2 @@
-# setup_my_linux_workspace
-Install and configure all I need to my workspace.
+# Pos install config script
+This script automates the installation and configuration of all my workspace.
